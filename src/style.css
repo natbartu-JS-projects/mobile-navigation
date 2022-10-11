@@ -49,3 +49,22 @@ body {
 .nav.visible {
   transform: translateX(0);
 }
+
+.nav-black {
+  background-color: black;
+  width: 60%;
+  max-width: 480px;
+  min-width: 320px;
+}
+
+.nav-golden {
+  background-color: goldenrod;
+  width: 95%;
+}
+
+.nav-white {
+  background-color: #fff;
+  width: 95%;
+  padding: 40px;
+  position: relative;
+}

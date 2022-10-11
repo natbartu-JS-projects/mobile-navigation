@@ -68,3 +68,10 @@ body {
   padding: 40px;
   position: relative;
 }
+
+.close-btn {
+  color: goldenrod;
+  position: absolute;
+  top: 40px;
+  right: 30px;
+}

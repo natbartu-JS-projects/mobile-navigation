@@ -75,3 +75,20 @@ body {
   top: 40px;
   right: 30px;
 }
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list li {
+  margin: 20px 0;
+}
+
+.list li a {
+  color: rgb(208, 151, 5);
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bolder;
+}

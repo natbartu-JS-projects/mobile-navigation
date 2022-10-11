@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100&display=swap');
 
 * {
   box-sizing: border-box;
@@ -6,16 +6,19 @@
 
 body {
   background-color: #fff;
-  font-family: 'Roboto', 'san-serif';
+  font-family: 'Inter Tight', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  overflow: hidden;
-  margin: 0;
 }
 
 .logo {
   width: 250px;
+}
+
+.text {
+  text-transform: uppercase;
+  text-align: center;
 }
